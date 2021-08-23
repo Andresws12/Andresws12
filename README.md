@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 <p align="center"><img src="https://profile-counter.glitch.me/{Andresws12}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andresws12&langs_count=10&theme=tokyonight&layout=compact" alt="Andresws12 :: Top Langs" /></p>
